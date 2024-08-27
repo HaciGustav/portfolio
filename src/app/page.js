@@ -8,14 +8,6 @@ export default function Home() {
       <div className={styles.description}>
         <div>
           <GithubCorner />
-          {/* <Image
-              src="/github-mark.svg"
-              alt="Vercel Logo"
-              className={styles.vercelLogo}
-              width={50}
-              height={50}
-              priority
-            /> */}
         </div>
       </div>
 
